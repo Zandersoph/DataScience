@@ -1,2 +1,2 @@
-# DataScience
-My Data Projects
+# Music Store Project
+SQL Project
